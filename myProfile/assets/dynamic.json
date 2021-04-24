@@ -1,0 +1,102 @@
+{
+    "name": "Togin Thomas",
+    "designation": "System Engineer",
+    "qualification": "MCA",
+    "role": "Developer",
+    "company": "Tata Consultancy Services (TCS)",
+    "about": "Full  developer Skilled in Angular framework, Spring boot, Node, CI/CD Tools, J2EE web service, MVC, Hibernate, HTML5, CSS3, SCSS, Angular Meterial, Java script, TypeScript, jQuery, Python, Java, C, C++, Bootstrap, Flex layout, SQL, postgreSQL,express Js and mongoDB.",
+    "roleArray": [
+        "Angular Trainer",
+        "JavsScript, HTML, CSS Trainer",
+        "Team Lead"
+    ],
+    "skillsArray": [
+        {
+            "name": "User Interface Design",
+            "knowledgeLevel": "95"
+        },
+        {
+            "name": "Angular Frame Work",
+            "knowledgeLevel": "95"
+        },
+        {
+            "name": "Spring Boot",
+            "knowledgeLevel": "85"
+        },
+        {
+            "name": "Node Js",
+            "knowledgeLevel": "85"
+        },
+        {
+            "name": "Java Script | Type Script | jQuery",
+            "knowledgeLevel": "95"
+        },
+        {
+            "name": "Java | Python | C | C++ | COBOL",
+            "knowledgeLevel": "90"
+        },
+        {
+            "name": "HTML | CSS | BOOTSTRAP",
+            "knowledgeLevel": "100"
+        },
+        {
+            "name": "Unix | Docker | Jenkins",
+            "knowledgeLevel": "85"
+        },
+        {
+            "name": "SQL | MongoDb | postgreSQL",
+            "knowledgeLevel": "80"
+        }
+    ],
+    "toolsUsed": "Visual Studio , IntelliJ IDEA , Spring Tool Suit , Eclipse , NetBeans , Jupyter Notebook , Dbeaver , SourceTree , Oracle SQL Developer , Virtual Box (WindowDocker) , WinScp , Putty , GitBucket",
+    "detailsDiv": [
+        {
+            "heading": "TCS",
+            "description": "System Engineer"
+        },
+        {
+            "heading": "4Y",
+            "description": "Experience"
+        },
+        {
+            "heading": "10",
+            "description": "Projects Done"
+        },
+        {
+            "heading": "MCA",
+            "description": "Qualification"
+        }
+    ],
+    "timeLineInfo": [
+        {
+            "heading": "2014-2017",
+            "subHeading": "BCA",
+            "description": "Bachelor of Computer Application from Marian College Kuttikkanam , Mg University Kottayam , Kerala"
+        },
+        {
+            "heading": "2017",
+            "subHeading": "TCS",
+            "description": "Joined in Tata Consultancy Services Limited as Software Engineer"
+        },
+        {
+            "heading": "2018",
+            "subHeading": "Assistant System Engineer - TCS",
+            "description": "Designation change"
+        },
+        {
+            "heading": "2020",
+            "subHeading": "System Engineer - TCS",
+            "description": "Designation change"
+        },
+        {
+            "heading": "2018-2021",
+            "subHeading": "MCA",
+            "description": "Master of Computer Applications from SASTRA Deemed to be University , Thanjavur district, Tamil Nadu"
+        },
+        {
+            "heading": "2021",
+            "subHeading": "Digital Cadre - TCS",
+            "description": "Designation change"
+        }
+    ]
+}
