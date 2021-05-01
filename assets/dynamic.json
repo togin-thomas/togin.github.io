@@ -98,5 +98,25 @@
             "subHeading": "Digital Cadre - TCS",
             "description": "Designation change"
         }
+    ],
+    "workDetails": [
+        {
+            "name": "Shopping Web Template",
+            "descripton": "",
+            "toolsUsed": "Angular 10, Angular Material, BootStrap, FlexLayout",
+            "link":"https://togin-thomas.github.io/work-template"
+        },
+        {
+            "name": "Puzzle Game",
+            "descripton": "",
+            "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout",
+            "link": "https://togin-thomas.github.io/game-board"
+        },
+        {
+            "name": "Grocey App",
+            "descripton": "",
+            "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout, FireBase",
+            "link": "https://togin-thomas.github.io/firebase-test/"
+        }
     ]
 }
