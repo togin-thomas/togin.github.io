@@ -1,8 +1,8 @@
 {
     "name": "Togin Thomas",
     "designation": "System Engineer",
-    "qualification": "MCA",
-    "role": "Developer",
+    "qualification": "Master of Computer Applications",
+    "role": "Full Stack Developer",
     "company": "Tata Consultancy Services (TCS)",
     "about": "Full stack developer Skilled in Angular framework, Spring boot, Node, CI/CD Tools, J2EE web service, MVC, Hibernate, HTML5, CSS3, SCSS, Angular Meterial, Java script, TypeScript, jQuery, Python, Java, C, C++, Bootstrap, Flex layout, SQL, postgreSQL,express Js and mongoDB.",
     "roleArray": [
@@ -99,12 +99,26 @@
             "description": "Designation change"
         }
     ],
+    "education": [
+        {
+            "name": "MCA - Master of Computer Application",
+            "college": "SASTRA",
+            "university": "SASTRA University",
+            "year": "2018 - 2021"
+        },
+        {
+            "name": "BCA - Bachelor of Computer Applications",
+            "college": "Marian College Kuttikkanam",
+            "university": "MG University",
+            "year": "2014 - 2027"
+        }
+    ],
     "workDetails": [
         {
             "name": "Shopping Web Template",
             "descripton": "",
             "toolsUsed": "Angular 10, Angular Material, BootStrap, FlexLayout",
-            "link":"https://togin-thomas.github.io/work-template"
+            "link": "https://togin-thomas.github.io/work-template"
         },
         {
             "name": "Puzzle Game",
@@ -117,6 +131,24 @@
             "descripton": "",
             "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout, FireBase",
             "link": "https://togin-thomas.github.io/firebase-test/"
+        }
+    ],
+    "awards": [
+        {
+            "name": "TCS Digital Cadre",
+            "year": "December 2020"
+        },
+        {
+            "name": "Star of the month award",
+            "year": "December 2020"
+        },
+        {
+            "name": "100% Customer Satisfaction (CSS) award",
+            "year": "December 2020"
+        },
+        {
+            "name": "On the Spot award for performance",
+            "year": "December 2020"
         }
     ]
 }
