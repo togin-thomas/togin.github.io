@@ -4,10 +4,11 @@
     "qualification": "Master of Computer Applications",
     "role": "Full Stack Developer",
     "company": "Tata Consultancy Services (TCS)",
-    "about": "Full stack developer Skilled in Angular framework, Spring boot, Node, CI/CD Tools, J2EE web service, MVC, Hibernate, HTML5, CSS3, SCSS, Angular Meterial, Java script, TypeScript, jQuery, Python, Java, C, C++, Bootstrap, Flex layout, SQL, postgreSQL,express Js and mongoDB.",
+    "about": "Full stack developer Skilled in Angular framework, Spring boot, Node, React, CI/CD Tools, J2EE web service, MVC, Hibernate, HTML5, CSS3, SCSS, Angular Meterial, Java script, TypeScript, jQuery, Python, Java, C, C++, Bootstrap, Flex layout, SQL, postgreSQL,express Js and mongoDB.",
     "roleArray": [
         "Angular Trainer",
-        "JavsScript, HTML, CSS Trainer",
+        "JavaScript, HTML, CSS Trainer",
+        "Testing Automation Trainer",
         "Team Lead"
     ],
     "skillsArray": [
@@ -40,13 +41,21 @@
             "knowledgeLevel": "100"
         },
         {
+            "name": "React",
+            "knowledgeLevel": "75"
+        },
+        {
             "name": "Unix | Docker | Jenkins",
             "knowledgeLevel": "85"
         },
         {
             "name": "SQL | MongoDb | postgreSQL",
             "knowledgeLevel": "80"
-        }
+        },
+        {
+            "name": "Protractor | Selenium | Jasmine",
+            "knowledgeLevel": "95"
+        },
     ],
     "toolsUsed": "Visual Studio , IntelliJ IDEA , Spring Tool Suit , Eclipse , NetBeans , Jupyter Notebook , Dbeaver , SourceTree , Oracle SQL Developer , Virtual Box (WindowDocker) , WinScp , Putty , GitBucket",
     "detailsDiv": [
