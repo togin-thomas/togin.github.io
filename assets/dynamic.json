@@ -55,7 +55,7 @@
         {
             "name": "Protractor | Selenium | Jasmine",
             "knowledgeLevel": "95"
-        },
+        }
     ],
     "toolsUsed": "Visual Studio , IntelliJ IDEA , Spring Tool Suit , Eclipse , NetBeans , Jupyter Notebook , Dbeaver , SourceTree , Oracle SQL Developer , Virtual Box (WindowDocker) , WinScp , Putty , GitBucket",
     "detailsDiv": [
