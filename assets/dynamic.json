@@ -1,6 +1,6 @@
 {
     "name": "Togin Thomas",
-    "designation": "System Engineer",
+    "designation": "IT Analyst",
     "qualification": "Master of Computer Applications",
     "role": "Full Stack Developer",
     "company": "Tata Consultancy Services (TCS)",
@@ -61,7 +61,7 @@
     "detailsDiv": [
         {
             "heading": "TCS",
-            "description": "System Engineer"
+            "description": "IT Analyst"
         },
         {
             "heading": "4Y",
@@ -105,6 +105,11 @@
         {
             "heading": "2021",
             "subHeading": "Digital Cadre - TCS",
+            "description": "Designation change"
+        },
+        {
+            "heading": "2021",
+            "subHeading": "IT Analyst TCS",
             "description": "Designation change"
         }
     ],
