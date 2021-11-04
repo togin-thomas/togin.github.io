@@ -1,174 +1,178 @@
 {
-    "name": "Togin Thomas",
-    "designation": "IT Analyst",
-    "qualification": "Master of Computer Applications",
-    "role": "Full Stack Developer",
-    "company": "Tata Consultancy Services (TCS)",
-    "about": "Full stack developer Skilled in Angular framework, Spring boot, Node, React, CI/CD Tools, J2EE web service, MVC, Hibernate, HTML5, CSS3, SCSS, Angular Meterial, Java script, TypeScript, jQuery, Python, Java, C, C++, Bootstrap, Flex layout, SQL, postgreSQL,express Js and mongoDB.",
-    "roleArray": [
-        "Angular Trainer",
-        "JavaScript, HTML, CSS Trainer",
-        "Testing Automation Trainer",
-        "Team Lead"
-    ],
-    "skillsArray": [
-        {
-            "name": "User Interface Design",
-            "knowledgeLevel": "95"
-        },
-        {
-            "name": "Angular Frame Work",
-            "knowledgeLevel": "95"
-        },
-        {
-            "name": "Spring Boot",
-            "knowledgeLevel": "85"
-        },
-        {
-            "name": "Node Js",
-            "knowledgeLevel": "85"
-        },
-        {
-            "name": "Java Script | Type Script | jQuery",
-            "knowledgeLevel": "95"
-        },
-        {
-            "name": "Java | Python | C | C++ | COBOL",
-            "knowledgeLevel": "90"
-        },
-        {
-            "name": "HTML | CSS | BOOTSTRAP",
-            "knowledgeLevel": "100"
-        },
-        {
-            "name": "React",
-            "knowledgeLevel": "75"
-        },
-        {
-            "name": "Unix | Docker | Jenkins",
-            "knowledgeLevel": "85"
-        },
-        {
-            "name": "SQL | MongoDb | postgreSQL",
-            "knowledgeLevel": "80"
-        },
-        {
-            "name": "Protractor | Selenium | Jasmine",
-            "knowledgeLevel": "95"
-        }
-    ],
-    "toolsUsed": "Visual Studio , IntelliJ IDEA , Spring Tool Suit , Eclipse , NetBeans , Jupyter Notebook , Dbeaver , SourceTree , Oracle SQL Developer , Virtual Box (WindowDocker) , WinScp , Putty , GitBucket",
-    "detailsDiv": [
-        {
-            "heading": "TCS",
-            "description": "IT Analyst"
-        },
-        {
-            "heading": "4Y",
-            "description": "Experience"
-        },
-        {
-            "heading": "10",
-            "description": "Projects Done"
-        },
-        {
-            "heading": "MCA",
-            "description": "Qualification"
-        }
-    ],
-    "timeLineInfo": [
-        {
-            "heading": "2014-2017",
-            "subHeading": "BCA",
-            "description": "Bachelor of Computer Application from Marian College Kuttikkanam , Mg University Kottayam , Kerala"
-        },
-        {
-            "heading": "2017",
-            "subHeading": "TCS",
-            "description": "Joined in TCS(Tata Consultancy Services LIMITED) as a Software Engineer"
-        },
-        {
-            "heading": "2018",
-            "subHeading": "Assistant System Engineer - TCS",
-            "description": "Designation change"
-        },
-        {
-            "heading": "2020",
-            "subHeading": "System Engineer - TCS",
-            "description": "Designation change"
-        },
-        {
-            "heading": "2018-2021",
-            "subHeading": "MCA",
-            "description": "Master of Computer Applications from SASTRA Deemed to be University , Thanjavur district, Tamil Nadu"
-        },
-        {
-            "heading": "2021",
-            "subHeading": "Digital Cadre - TCS",
-            "description": "Designation change"
-        },
-        {
-            "heading": "2021",
-            "subHeading": "IT Analyst TCS",
-            "description": "Designation change"
-        }
-    ],
-    "education": [
-        {
-            "name": "MCA - Master of Computer Application",
-            "college": "SASTRA",
-            "university": "SASTRA University",
-            "year": "2018 - 2021"
-        },
-        {
-            "name": "BCA - Bachelor of Computer Applications",
-            "college": "Marian College Kuttikkanam",
-            "university": "MG University",
-            "year": "2014 - 2027"
-        }
-    ],
-    "workDetails": [
-        {
-            "name": "Church Website",
-            "descripton": "",
-            "toolsUsed": "React , Material UI , BootStrap, Node JS",
-            "link": "https://www.familyapostolatepalai.in/"
-        },
-        {
-            "name": "Shopping Web Template",
-            "descripton": "",
-            "toolsUsed": "Angular 10, Angular Material, BootStrap, FlexLayout",
-            "link": "https://togin-thomas.github.io/work-template"
-        },
-        {
-            "name": "Puzzle Game",
-            "descripton": "",
-            "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout",
-            "link": "https://togin-thomas.github.io/game-board"
-        },
-        {
-            "name": "Grocey App",
-            "descripton": "",
-            "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout, FireBase",
-            "link": "https://togin-thomas.github.io/firebase-test/"
-        }
-    ],
-    "awards": [
-        {
-            "name": "TCS Digital Cadre",
-            "year": "December 2020"
-        },
-        {
-            "name": "Star of the month award",
-            "year": "December 2020"
-        },
-        {
-            "name": "100% Customer Satisfaction (CSS) award",
-            "year": "December 2020"
-        },
-        {
-            "name": "On the Spot award for performance",
-            "year": "December 2020"
-        }
-    ]
+  "name": "Togin Thomas",
+  "designation": "IT Analyst",
+  "qualification": "Master of Computer Applications",
+  "role": "Full Stack Developer",
+  "company": "Tata Consultancy Services (TCS)",
+  "about": "Full stack developer Skilled in Angular framework, Spring boot, Node, React, CI/CD Tools, J2EE web service, MVC, Hibernate, HTML5, CSS3, SCSS, Angular Meterial, Java script, TypeScript, jQuery, Python, Java, C, C++, Bootstrap, Flex layout, SQL, postgreSQL,express Js and mongoDB.",
+  "roleArray": [
+    "Angular Trainer",
+    "JavaScript, HTML, CSS Trainer",
+    "Testing Automation Trainer",
+    "Team Lead"
+  ],
+  "skillsArray": [
+    {
+      "name": "User Interface Design",
+      "knowledgeLevel": "95"
+    },
+    {
+      "name": "Angular Frame Work",
+      "knowledgeLevel": "95"
+    },
+    {
+      "name": "Spring Boot",
+      "knowledgeLevel": "85"
+    },
+    {
+      "name": "Node Js",
+      "knowledgeLevel": "85"
+    },
+    {
+      "name": "Java Script | Type Script | jQuery",
+      "knowledgeLevel": "95"
+    },
+    {
+      "name": "Java | Python | C | C++ | COBOL",
+      "knowledgeLevel": "90"
+    },
+    {
+      "name": "HTML | CSS | BOOTSTRAP",
+      "knowledgeLevel": "100"
+    },
+    {
+      "name": "React",
+      "knowledgeLevel": "75"
+    },
+    {
+      "name": "Unix | Docker | Jenkins",
+      "knowledgeLevel": "85"
+    },
+    {
+      "name": "SQL | MongoDb | postgreSQL",
+      "knowledgeLevel": "80"
+    },
+    {
+      "name": "Protractor | Selenium | Jasmine",
+      "knowledgeLevel": "95"
+    }
+  ],
+  "toolsUsed": "Visual Studio , IntelliJ IDEA , Spring Tool Suit , Eclipse , NetBeans , Jupyter Notebook , Dbeaver , SourceTree , Oracle SQL Developer , Virtual Box (WindowDocker) , WinScp , Putty , GitBucket",
+  "detailsDiv": [
+    {
+      "heading": "TCS",
+      "description": "IT Analyst"
+    },
+    {
+      "heading": "4Y",
+      "description": "Experience"
+    },
+    {
+      "heading": "10",
+      "description": "Projects Done"
+    },
+    {
+      "heading": "MCA",
+      "description": "Qualification"
+    }
+  ],
+  "timeLineInfo": [
+    {
+      "heading": "2014-2017",
+      "subHeading": "BCA",
+      "description": "Bachelor of Computer Application from Marian College Kuttikkanam , Mg University Kottayam , Kerala"
+    },
+    {
+      "heading": "2017",
+      "subHeading": "TCS",
+      "description": "Joined in TCS(Tata Consultancy Services LIMITED) as a Software Engineer"
+    },
+    {
+      "heading": "2018",
+      "subHeading": "Assistant System Engineer - TCS",
+      "description": "Designation change"
+    },
+    {
+      "heading": "2020",
+      "subHeading": "System Engineer - TCS",
+      "description": "Designation change"
+    },
+    {
+      "heading": "2018-2021",
+      "subHeading": "MCA",
+      "description": "Master of Computer Applications from SASTRA Deemed to be University , Thanjavur district, Tamil Nadu"
+    },
+    {
+      "heading": "2021",
+      "subHeading": "Digital Cadre - TCS",
+      "description": "Designation change"
+    },
+    {
+      "heading": "2021",
+      "subHeading": "IT Analyst TCS",
+      "description": "Designation change"
+    }
+  ],
+  "education": [
+    {
+      "name": "MCA - Master of Computer Application",
+      "college": "SASTRA",
+      "university": "SASTRA University",
+      "year": "2018 - 2021"
+    },
+    {
+      "name": "BCA - Bachelor of Computer Applications",
+      "college": "Marian College Kuttikkanam",
+      "university": "MG University",
+      "year": "2014 - 2027"
+    }
+  ],
+  "workDetails": [
+    {
+      "name": "Church Website",
+      "descripton": "",
+      "toolsUsed": "React , Material UI , BootStrap, Node JS",
+      "link": "https://www.familyapostolatepalai.in/"
+    },
+    {
+      "name": "Shopping Web Template",
+      "descripton": "",
+      "toolsUsed": "Angular 10, Angular Material, BootStrap, FlexLayout",
+      "link": "https://togin-thomas.github.io/work-template"
+    },
+    {
+      "name": "Puzzle Game",
+      "descripton": "",
+      "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout",
+      "link": "https://togin-thomas.github.io/game-board"
+    },
+    {
+      "name": "Grocey App",
+      "descripton": "",
+      "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout, FireBase",
+      "link": "https://togin-thomas.github.io/firebase-test/"
+    }
+  ],
+  "awards": [
+    {
+      "name": "TCS Global Slum Dunk Hackathon 2021 Runner Up",
+      "year": "August 2021"
+    },
+    {
+      "name": "TCS Digital Cadre",
+      "year": "December 2020"
+    },
+    {
+      "name": "Star of the month award",
+      "year": "December 2020"
+    },
+    {
+      "name": "100% Customer Satisfaction (CSS) award",
+      "year": "December 2020"
+    },
+    {
+      "name": "On the Spot award for performance",
+      "year": "December 2020"
+    }
+  ]
 }
