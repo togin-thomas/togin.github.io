@@ -33,6 +33,10 @@
       "knowledgeLevel": "95"
     },
     {
+      "name": "DevOps",
+      "knowledgeLevel": "75"
+    },
+    {
       "name": "Java | Python | C | C++ | COBOL",
       "knowledgeLevel": "90"
     },
@@ -129,6 +133,12 @@
   ],
   "workDetails": [
     {
+      "name": "Online Quiz",
+      "descripton": "",
+      "toolsUsed": "Angular - 12 , PRIME Ng , BootStrap, FlexLayout",
+      "link": "https://togin-thomas.github.io/quiz-app/Home"
+    },
+    {
       "name": "Church Website",
       "descripton": "",
       "toolsUsed": "React , Material UI , BootStrap, Node JS",
@@ -155,6 +165,22 @@
   ],
   "awards": [
     {
+      "name": "S miles Award",
+      "year": "August 2022"
+    },
+    {
+      "name": "Service Commitment Award",
+      "year": "July 2022"
+    },
+    {
+      "name": "Young innovater",
+      "year": "January 2022"
+    },
+    {
+      "name": "On the spot award",
+      "year": "December 2021"
+    },
+    {
       "name": "TCS Global Slum Dunk Hackathon 2021 Runner Up",
       "year": "August 2021"
     },
@@ -162,7 +188,7 @@
       "name": "TCS Digital Cadre",
       "year": "December 2020"
     },
-     {
+    {
       "name": "Design-thon Challenge (2020) Runner Up",
       "year": "November 2020"
     },
