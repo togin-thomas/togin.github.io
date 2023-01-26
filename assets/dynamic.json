@@ -134,33 +134,38 @@
   "workDetails": [
     {
       "name": "Online Quiz",
-      "descripton": "",
+      "descripton": "The online website that has multiple technology-based McQs without having any advertisements",
       "toolsUsed": "Angular - 12 , PRIME Ng , BootStrap, FlexLayout",
-      "link": "https://togin-thomas.github.io/quiz-app/Home"
+      "link": "https://togin-thomas.github.io/quiz-app/Home",
+      "img": "quiz-app.jpg"
     },
     {
       "name": "Church Website",
-      "descripton": "",
+      "descripton": "A website allows people to explore serving opportunities at church, connect with their congregation and community, forward helpful information to others, and more.",
       "toolsUsed": "React , Material UI , BootStrap, Node JS",
-      "link": "https://www.familyapostolatepalai.in/"
+      "link": "https://www.familyapostolatepalai.in/",
+      "img": "church.jpg"
     },
     {
       "name": "Shopping Web Template",
-      "descripton": "",
+      "descripton": "Online shopping is a form of electronic commerce that allows consumers to directly buy goods or services from a seller over the Internet using a web browser or a mobile app.",
       "toolsUsed": "Angular 10, Angular Material, BootStrap, FlexLayout",
-      "link": "https://togin-thomas.github.io/work-template"
+      "link": "https://togin-thomas.github.io/work-template",
+      "img": "shopping.jpg"
     },
     {
       "name": "Puzzle Game",
-      "descripton": "",
-      "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout",
-      "link": "https://togin-thomas.github.io/game-board/Home"
+      "descripton": "There are two kinds of board games: the first is a brain game with two levels that is used to improve memory skills, and the second allows users to play bingo against the system. ",
+      "toolsUsed": "Angular 9, Angular UI, BootStrap, FlexLayout",
+      "link": "https://togin-thomas.github.io/game-board/Home",
+      "img": "bingo.jpg"
     },
     {
       "name": "Grocey App",
-      "descripton": "",
-      "toolsUsed": "Angular 9, Angular Material, BootStrap, FlexLayout, FireBase",
-      "link": "https://togin-thomas.github.io/firebase-test/"
+      "descripton": "A grocery shopping store is like an ecommerce site that lets people buy grocery items online and delivers it to their doorstep at their favored time.",
+      "toolsUsed": "Angular 9, Material UI, BootStrap, FlexLayout, FireBase",
+      "link": "https://togin-thomas.github.io/firebase-test/",
+      "img": "grocerry.jpg"
     }
   ],
   "awards": [
