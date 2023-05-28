@@ -115,6 +115,16 @@
       "heading": "2021",
       "subHeading": "IT Analyst TCS",
       "description": "Designation change"
+    },
+    {
+      "heading": "2022",
+      "subHeading": "Contextual master",
+      "description": "TCS Excellence"
+    },
+    {
+      "heading": "2023",
+      "subHeading": "Golden Guru 2023",
+      "description": "TCS Subject Matter Expert"
     }
   ],
   "education": [
@@ -169,6 +179,14 @@
     }
   ],
   "awards": [
+    {
+      "name": "Best Team award",
+      "year": "May 2023"
+    },
+    {
+      "name": "TCS Golden guru",
+      "year": "Feb 2023"
+    },
     {
       "name": "TCS Contextual master",
       "year": "August 2022"
