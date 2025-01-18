@@ -125,11 +125,6 @@
       "heading": "2023",
       "subHeading": "Golden Guru 2023",
       "description": "TCS Subject Matter Expert"
-    },
-{
-      "heading": "2023",
-      "subHeading": "TCS Canada",
-      "description": "Moved to TCS Canada"
     }
   ],
   "education": [
@@ -148,8 +143,15 @@
   ],
   "workDetails": [
     {
+      "name": "Language Tutorial",
+      "descripton": "Learn Malayalam with ease. Find comprehensive tutorials and register for courses to master the language.",
+      "toolsUsed": "Angular - 16 , Material UI , BootStrap, FlexLayout",
+      "link": "https://verukal.ca/",
+      "img": "verukal.jpg"
+    },
+    {
       "name": "Online Quiz",
-      "descripton": "The online website that has multiple technology-based McQs without having any advertisements",
+      "descripton": "The online website that has multiple technology-based MCQs without having any advertisements",
       "toolsUsed": "Angular - 12 , PRIME Ng , BootStrap, FlexLayout",
       "link": "https://togin-thomas.github.io/quiz-app/Home",
       "img": "quiz-app.jpg"
@@ -236,7 +238,7 @@
   "location": "Toronto , Canada",
   "mobile": "9562978001 ,  +1 4167313581",
   "mail": "toginthomas143@gmail.com",
-  "lastUpdated": "10th December 2023",
+  "lastUpdated": "18th January 2025",
   "linkedIn": "https://www.linkedin.com/in/togin-thomas-6837a7134/",
   "fb": "https://www.facebook.com/togin.thomas.5",
   "insta": "https://www.instagram.com/_togin_/?hl=en",
